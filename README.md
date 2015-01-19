@@ -7,3 +7,5 @@ Requiere AngularJS 1.2.x
 - Agregar el módulo "rutchileno" a la app
 - Agregar la directiva rutchileno al campo de texto.
 - Listo! 
+# Live Demo
+[Ver demo en vivo acá](http://elmismopancho.cl/demos/github/rutchileno/)
