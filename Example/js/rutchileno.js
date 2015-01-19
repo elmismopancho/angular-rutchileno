@@ -1,4 +1,4 @@
-angular.module('rutApp.rutchileno', [])
+angular.module('rutchileno', [])
 
 .directive('rutchileno', function() {
   return {
