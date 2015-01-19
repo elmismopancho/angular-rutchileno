@@ -1,4 +1,4 @@
-var app = angular.module('rutApp', ['rutApp.rutchileno']);
+var app = angular.module('rutApp', ['rutchileno']);
 
 app.controller('IndexController', ['$scope', function($scope){
 	
